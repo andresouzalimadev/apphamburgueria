@@ -13,7 +13,7 @@
 
 ## :rocket: O desafio
 
-Criar uma utilizando o [Node](https://nodejs.org/en/) e [Express](https://expressjs.com/pt-br/).
+Criar uma aplicação que fará o cadastro dos pedidos de uma hamburgueria utilizando o [Node](https://nodejs.org/en/) e [Express](https://expressjs.com/pt-br/).
 
 ### Rotas
 
